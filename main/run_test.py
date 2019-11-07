@@ -54,3 +54,5 @@ class RunTest(object):
 if __name__ == '__main__':
     print('res:', RunTest().run())
     # RunTest().run()\
+    print("zhongguonihao")
+    print("wo xihuan ni")
