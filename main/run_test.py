@@ -56,3 +56,5 @@ if __name__ == '__main__':
     # RunTest().run
 
 
+print("zhongguo")
+print("我来了中国，欢迎你")
